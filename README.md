@@ -57,18 +57,23 @@
 **游戏演示**
 
 *战败*
+
 ![战败](ReadMe/Loser.gif)
 
 *战胜*
+
 ![战胜](ReadMe/Not_Loser.gif)
 
 *Boss秀*
+
 ![Boss](ReadMe/Boss.gif)
 
 *骨骼偏移*
+
 ![骨骼偏移](ReadMe/Bone_Offset.gif)
 
 *子弹碰撞*
+
 ![骨骼偏移](ReadMe/Bullet_Hit_Bullet.gif)
 
 
