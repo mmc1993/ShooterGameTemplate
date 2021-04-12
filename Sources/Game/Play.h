@@ -263,7 +263,7 @@ namespace Play {
             auto & coord = first.mCoord;
             auto preCoord= first.mCoord;
 
-            mMoveTime = std::min(1.0f, mMoveTime + dt *0.1f);
+            mMoveTime = std::min(1.0f, mMoveTime + dt *0.0001f);
             coord = mPaths[mIndex].Calc(mMoveTime);
             for (auto i = 0; i != mItems.size(); ++i)
             {
